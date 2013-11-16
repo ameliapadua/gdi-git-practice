@@ -4,8 +4,4 @@ Hooray!
 Making a second awesome change because I need practice. 
 Yay
 
-Tony is landing early.
-
-Change is good.
-
-Checkout this line.
+Version 2 changes.
