@@ -2,5 +2,10 @@ Making a file to add to git!
 Hooray!
 
 Making a second awesome change because I need practice. 
+Yay
 
-This file was too long.
+Tony is landing early.
+
+Change is good.
+
+Checkout this line.
